@@ -1,0 +1,420 @@
+New log file opened at Thu Nov 03 22:18:47 JST 2016 by 12397@ananhajshinombp
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang#scala-reflect;2.11.7 [compile->compile(*)]
+== resolving dependencies org.scala-lang#scala-reflect;2.11.7->org.scala-lang#scala-library;2.11.7 [compile->master(compile)]
+== resolving dependencies org.scala-lang#scala-reflect;2.11.7->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->master(compile)]
+Read from stdout: Resolving org.scala-lang.modules#scala-xml_2.11;1.0.4 ...
+Resolving org.scala-lang.modules#scala-xml_2.11;1.0.4 ...
+sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
+	found org.scala-lang.modules#scala-xml_2.11;1.0.4 in sbt-chain
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->compile(*)]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.4 [compile->master(*)]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [compile->master(*)]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.4 [compile->compile(*)]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->runtime(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->compile]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.4 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang.modules#scala-xml_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master(compile)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->compile(*)]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.6 [compile->master(*)]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [compile->master(*)]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.6 [compile->compile(*)]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [compile->compile(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang#scala-reflect;2.11.7 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang#scala-reflect;2.11.7 [runtime->compile]
+== resolving dependencies org.scala-lang#scala-reflect;2.11.7->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang#scala-reflect;2.11.7->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-xml_2.11;1.0.4 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-xml_2.11;1.0.4 [runtime->compile]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [runtime->compile]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.6 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [runtime->runtime(*)]
+== resolving dependencies org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4->org.scala-lang#scala-library;2.11.7 [runtime->compile]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.7 [scala-tool->master]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-compiler;2.11.7 [scala-tool->optional(default)]
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->jline#jline;2.12.1 [optional->master(compile)]
+Read from stdout: Resolving jline#jline;2.12.1 ...
+Resolving jline#jline;2.12.1 ...
+sbt-chain: Checking cache for: dependency: jline#jline;2.12.1 {optional=[compile(*), master(compile)]}
+sbt-chain: module revision found in cache: jline#jline;2.12.1
+	found jline#jline;2.12.1 in sbt-chain
+== resolving dependencies org.scala-lang#scala-compiler;2.11.7->jline#jline;2.12.1 [optional->compile(*)]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [scala-tool->default]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [scala-tool->runtime]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [scala-tool->compile]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [scala-tool->master]
+== resolving dependencies log-collector#log-collector_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [scala-tool->optional(default)]
+all callers are evicted for commons-logging#commons-logging;1.1.1: evicting too
+all callers are evicted for commons-logging#commons-logging;1.1.1: evicting too
+	resolved ivy file produced in cache
+:: downloading artifacts ::
+	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar
+	[NOT REQUIRED] com.typesafe.play#twirl-api_2.11;1.1.1!twirl-api_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-server_2.11;2.5.9!play-server_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-netty-server_2.11;2.5.9!play-netty-server_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-logback_2.11;2.5.9!play-logback_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-jdbc_2.11;2.5.9!play-jdbc_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-cache_2.11;2.5.9!play-cache_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-ws_2.11;2.5.9!play-ws_2.11.jar
+	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(bundle)
+	[NOT REQUIRED] com.typesafe.play#play_2.11;2.5.9!play_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.5.9!play-iteratees_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#build-link;2.5.9!build-link.jar
+	[NOT REQUIRED] com.typesafe.play#play-json_2.11;2.5.9!play-json_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-netty-utils;2.5.9!play-netty-utils.jar
+	[NOT REQUIRED] com.typesafe.play#play-streams_2.11;2.5.9!play-streams_2.11.jar
+	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.21!slf4j-api.jar
+	[NOT REQUIRED] org.slf4j#jul-to-slf4j;1.7.21!jul-to-slf4j.jar
+	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.21!jcl-over-slf4j.jar
+	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.4.10!akka-actor_2.11.jar
+	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.11;2.4.10!akka-slf4j_2.11.jar
+	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.7.6!jackson-core.jar(bundle)
+	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.7.6!jackson-annotations.jar(bundle)
+	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.7.6!jackson-databind.jar(bundle)
+	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6!jackson-datatype-jdk8.jar(bundle)
+	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6!jackson-datatype-jsr310.jar(bundle)
+	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar
+	[NOT REQUIRED] commons-codec#commons-codec;1.10!commons-codec.jar
+	[NOT REQUIRED] joda-time#joda-time;2.9.4!joda-time.jar
+	[NOT REQUIRED] org.joda#joda-convert;1.8.1!joda-convert.jar
+	[NOT REQUIRED] xerces#xercesImpl;2.11.0!xercesImpl.jar
+	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar
+	[NOT REQUIRED] com.google.inject#guice;4.0!guice.jar
+	[NOT REQUIRED] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.jar
+	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar
+	[NOT REQUIRED] org.scala-lang.modules#scala-java8-compat_2.11;0.7.0!scala-java8-compat_2.11.jar(bundle)
+	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(bundle)
+	[NOT REQUIRED] com.typesafe.play#play-exceptions;2.5.9!play-exceptions.jar
+	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(bundle)
+	[NOT REQUIRED] com.typesafe.play#play-functional_2.11;2.5.9!play-functional_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-datacommons_2.11;2.5.9!play-datacommons_2.11.jar
+	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar
+	[NOT REQUIRED] com.typesafe.akka#akka-stream_2.11;2.4.10!akka-stream_2.11.jar
+	[NOT REQUIRED] com.typesafe#ssl-config-akka_2.11;0.2.1!ssl-config-akka_2.11.jar(bundle)
+	[NOT REQUIRED] com.typesafe#ssl-config-core_2.11;0.2.1!ssl-config-core_2.11.jar(bundle)
+	[NOT REQUIRED] xml-apis#xml-apis;1.4.01!xml-apis.jar
+	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar
+	[NOT REQUIRED] aopalliance#aopalliance;1.0!aopalliance.jar
+	[NOT REQUIRED] com.google.guava#guava;16.0.1!guava.jar(bundle)
+	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams-http;1.0.8!netty-reactive-streams-http.jar
+	[NOT REQUIRED] io.netty#netty-transport-native-epoll;4.0.41.Final!netty-transport-native-epoll.jar
+	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams;1.0.8!netty-reactive-streams.jar
+	[NOT REQUIRED] io.netty#netty-codec-http;4.0.41.Final!netty-codec-http.jar
+	[NOT REQUIRED] io.netty#netty-handler;4.0.41.Final!netty-handler.jar
+	[NOT REQUIRED] io.netty#netty-buffer;4.0.41.Final!netty-buffer.jar
+	[NOT REQUIRED] io.netty#netty-transport;4.0.41.Final!netty-transport.jar
+	[NOT REQUIRED] io.netty#netty-codec;4.0.41.Final!netty-codec.jar
+	[NOT REQUIRED] io.netty#netty-common;4.0.41.Final!netty-common.jar
+	[NOT REQUIRED] ch.qos.logback#logback-classic;1.1.7!logback-classic.jar
+	[NOT REQUIRED] ch.qos.logback#logback-core;1.1.7!logback-core.jar
+	[NOT REQUIRED] com.typesafe.play#play-jdbc-api_2.11;2.5.9!play-jdbc-api_2.11.jar
+	[NOT REQUIRED] com.jolbox#bonecp;0.8.0.RELEASE!bonecp.jar(bundle)
+	[NOT REQUIRED] com.zaxxer#HikariCP;2.5.1!HikariCP.jar(bundle)
+	[NOT REQUIRED] com.googlecode.usc#jdbcdslog;1.0.6.2!jdbcdslog.jar
+	[NOT REQUIRED] com.h2database#h2;1.4.192!h2.jar
+	[NOT REQUIRED] tyrex#tyrex;1.0.1!tyrex.jar
+	[NOT REQUIRED] net.sf.ehcache#ehcache-core;2.6.11!ehcache-core.jar
+	[NOT REQUIRED] com.google.guava#guava;19.0!guava.jar(bundle)
+	[NOT REQUIRED] org.asynchttpclient#async-http-client;2.0.11!async-http-client.jar
+	[NOT REQUIRED] oauth.signpost#signpost-core;1.2.1.2!signpost-core.jar(test-jar)
+	[NOT REQUIRED] oauth.signpost#signpost-core;1.2.1.2!signpost-core.jar
+	[NOT REQUIRED] oauth.signpost#signpost-commonshttp4;1.2.1.2!signpost-commonshttp4.jar
+	[NOT REQUIRED] org.asynchttpclient#netty-resolver-dns;2.0.11!netty-resolver-dns.jar
+	[NOT REQUIRED] org.javassist#javassist;3.20.0-GA!javassist.jar(bundle)
+	[NOT REQUIRED] org.asynchttpclient#netty-resolver;2.0.11!netty-resolver.jar
+	[NOT REQUIRED] org.asynchttpclient#netty-codec-dns;2.0.11!netty-codec-dns.jar
+	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.0.1!httpcore.jar
+	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.0.1!httpclient.jar
+	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar
+	[NOT REQUIRED] com.typesafe.play#play-test_2.11;2.5.9!play-test_2.11.jar
+	[NOT REQUIRED] org.scalatestplus.play#scalatestplus-play_2.11;1.5.1!scalatestplus-play_2.11.jar
+	[NOT REQUIRED] junit#junit;4.12!junit.jar
+	[NOT REQUIRED] com.novocode#junit-interface;0.11!junit-interface.jar
+	[NOT REQUIRED] com.google.code.findbugs#jsr305;3.0.1!jsr305.jar
+	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit;2.20!htmlunit.jar
+	[NOT REQUIRED] org.fluentlenium#fluentlenium-core;0.10.9!fluentlenium-core.jar
+	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar
+	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
+	[NOT REQUIRED] xalan#xalan;2.7.2!xalan.jar
+	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.5.2!httpclient.jar
+	[NOT REQUIRED] org.apache.httpcomponents#httpmime;4.5.2!httpmime.jar
+	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit-core-js;2.17!htmlunit-core-js.jar
+	[NOT REQUIRED] net.sourceforge.nekohtml#nekohtml;1.9.22!nekohtml.jar
+	[NOT REQUIRED] net.sourceforge.cssparser#cssparser;0.9.18!cssparser.jar
+	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar
+	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar
+	[NOT REQUIRED] org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210!websocket-client.jar
+	[NOT REQUIRED] xalan#serializer;2.7.2!serializer.jar
+	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.4.4!httpcore.jar
+	[NOT REQUIRED] org.w3c.css#sac;1.3!sac.jar
+	[NOT REQUIRED] org.eclipse.jetty#jetty-util;9.2.15.v20160210!jetty-util.jar
+	[NOT REQUIRED] org.eclipse.jetty#jetty-io;9.2.15.v20160210!jetty-io.jar
+	[NOT REQUIRED] org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210!websocket-common.jar
+	[NOT REQUIRED] org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210!websocket-api.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-java;2.48.2!selenium-java.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-chrome-driver;2.48.2!selenium-chrome-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar
+	[NOT REQUIRED] org.webbitserver#webbit;0.4.14!webbit.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-remote-driver;2.48.2!selenium-remote-driver.jar
+	[NOT REQUIRED] cglib#cglib-nodep;2.1_3!cglib-nodep.jar
+	[NOT REQUIRED] com.google.code.gson#gson;2.3.1!gson.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-api;2.48.2!selenium-api.jar
+	[NOT REQUIRED] org.apache.commons#commons-exec;1.3!commons-exec.jar
+	[NOT REQUIRED] net.java.dev.jna#jna;4.1.0!jna.jar
+	[NOT REQUIRED] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar
+	[NOT REQUIRED] io.netty#netty;3.5.2.Final!netty.jar(bundle)
+	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.6!scalatest_2.11.jar(bundle)
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(bundle)
+	[NOT REQUIRED] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar
+	[NOT REQUIRED] org.pegdown#pegdown;1.4.0!pegdown.jar
+	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(bundle)
+	[NOT REQUIRED] org.parboiled#parboiled-core;1.1.5!parboiled-core.jar(bundle)
+	[NOT REQUIRED] org.ow2.asm#asm;4.1!asm.jar
+	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar
+	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar
+	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)
+	[NOT REQUIRED] jline#jline;2.12.1!jline.jar
+:: resolution report :: resolve 3746ms :: artifacts dl 80ms
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT compile produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-compile.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT runtime produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-runtime.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT test produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-test.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT provided produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-provided.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT optional produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-optional.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT compile-internal produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-compile-internal.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT runtime-internal produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-runtime-internal.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT test-internal produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-test-internal.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT plugin produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-plugin.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT sources produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-sources.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT docs produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-docs.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT pom produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-pom.xml
+	report for log-collector#log-collector_2.11;1.0-SNAPSHOT scala-tool produced in /Users/tanan/Git/log-collector/target/resolution-cache/reports/log-collector-log-collector_2.11-scala-tool.xml
+	resolve done (3746ms resolve - 80ms download)
+Read from stdout: Done updating.
+Done updating.
+
+Initial source changes: 
+	removed:Set()
+	added: Set(/Users/tanan/Git/log-collector/app/controllers/CountController.scala, /Users/tanan/Git/log-collector/app/Filters.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala, /Users/tanan/Git/log-collector/app/Module.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/tanan/Git/log-collector/app/controllers/HomeController.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala, /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala, /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala, /Users/tanan/Git/log-collector/app/services/Counter.scala, /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala, /Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java)
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/tanan/Git/log-collector/app/controllers/CountController.scala, /Users/tanan/Git/log-collector/app/Filters.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala, /Users/tanan/Git/log-collector/app/Module.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/tanan/Git/log-collector/app/controllers/HomeController.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala, /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala, /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala, /Users/tanan/Git/log-collector/app/services/Counter.scala, /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala, /Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/tanan/Git/log-collector/app/controllers/CountController.scala, /Users/tanan/Git/log-collector/app/Filters.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala, /Users/tanan/Git/log-collector/app/Module.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/tanan/Git/log-collector/app/controllers/HomeController.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala, /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala, /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala, /Users/tanan/Git/log-collector/app/services/Counter.scala, /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala, /Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala, /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java)
+
+Recompiling all 15 sources: invalidated sources (15) exceeded 50.0% of all sources
+Read from stdout: Compiling 14 Scala sources and 1 Java source to /Users/tanan/Git/log-collector/target/scala-2.11/classes...
+Compiling 14 Scala sources and 1 Java source to /Users/tanan/Git/log-collector/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.7
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.7
+Other repositories:
+Default repositories:
+Running cached compiler 604a0d5a, interfacing (CompilerInterface) with Scala compiler version 2.11.7
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/classes:/Users/tanan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+	-classpath
+	/Users/tanan/Git/log-collector/target/scala-2.11/classes:/Users/tanan/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar:/Users/tanan/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.4.jar:/Users/tanan/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/tanan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.4.jar:/Users/tanan/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.8.1.jar:/Users/tanan/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar:/Users/tanan/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.7.6.jar:/Users/tanan/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.7.6.jar:/Users/tanan/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.7.6.jar:/Users/tanan/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/bundles/jackson-datatype-jdk8-2.7.6.jar:/Users/tanan/.ivy2/cache/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/bundles/jackson-datatype-jsr310-2.7.6.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.5.9.jar:/Users/tanan/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar:/Users/tanan/.ivy2/cache/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.21.jar:/Users/tanan/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.21.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-streams_2.11/jars/play-streams_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar:/Users/tanan/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.10.jar:/Users/tanan/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.10.jar:/Users/tanan/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.11/bundles/scala-java8-compat_2.11-0.7.0.jar:/Users/tanan/.ivy2/cache/com.typesafe/ssl-config-akka_2.11/bundles/ssl-config-akka_2.11-0.2.1.jar:/Users/tanan/.ivy2/cache/com.typesafe/ssl-config-core_2.11/bundles/ssl-config-core_2.11-0.2.1.jar:/Users/tanan/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/Users/tanan/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.4.10.jar:/Users/tanan/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar:/Users/tanan/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/tanan/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/tanan/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/tanan/.ivy2/cache/com.google.inject/guice/jars/guice-4.0.jar:/Users/tanan/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar:/Users/tanan/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar:/Users/tanan/.ivy2/cache/com.google.inject.extensions/guice-assistedinject/jars/guice-assistedinject-4.0.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.netty/netty-reactive-streams-http/jars/netty-reactive-streams-http-1.0.8.jar:/Users/tanan/.ivy2/cache/com.typesafe.netty/netty-reactive-streams/jars/netty-reactive-streams-1.0.8.jar:/Users/tanan/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.41.Final.jar:/Users/tanan/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.41.Final.jar:/Users/tanan/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.41.Final.jar:/Users/tanan/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.41.Final.jar:/Users/tanan/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.41.Final.jar:/Users/tanan/.ivy2/cache/io.netty/netty-codec-http/jars/netty-codec-http-4.0.41.Final.jar:/Users/tanan/.ivy2/cache/io.netty/netty-transport-native-epoll/jars/netty-transport-native-epoll-4.0.41.Final-linux-x86_64.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-logback_2.11/jars/play-logback_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.7.jar:/Users/tanan/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.7.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.jolbox/bonecp/bundles/bonecp-0.8.0.RELEASE.jar:/Users/tanan/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.5.1.jar:/Users/tanan/.ivy2/cache/com.googlecode.usc/jdbcdslog/jars/jdbcdslog-1.0.6.2.jar:/Users/tanan/.ivy2/cache/com.h2database/h2/jars/h2-1.4.192.jar:/Users/tanan/.ivy2/cache/tyrex/tyrex/jars/tyrex-1.0.1.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.6.11.jar:/Users/tanan/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.5.9.jar:/Users/tanan/.ivy2/cache/com.google.guava/guava/bundles/guava-19.0.jar:/Users/tanan/.ivy2/cache/org.asynchttpclient/async-http-client/jars/async-http-client-2.0.11.jar:/Users/tanan/.ivy2/cache/org.asynchttpclient/netty-resolver-dns/jars/netty-resolver-dns-2.0.11.jar:/Users/tanan/.ivy2/cache/org.asynchttpclient/netty-resolver/jars/netty-resolver-2.0.11.jar:/Users/tanan/.ivy2/cache/org.asynchttpclient/netty-codec-dns/jars/netty-codec-dns-2.0.11.jar:/Users/tanan/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.20.0-GA.jar:/Users/tanan/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/tanan/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/tanan/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.0.1.jar:/Users/tanan/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.0.1.jar:/Users/tanan/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar
+Scala compilation took 5.48431589 s
+Attempting to call com.sun.tools.javac.api.JavacTool@7a5ea1a4 directly...
+Java compilation took 0.389123802 s
+Java analysis took 0.047295218 s
+Java compile + analysis took 0.441277591 s
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala)
+The /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/RoutesPrefix.scala source file has the following regular definitions changed:
+	notify, byNamePrefix, wait, $asInstanceOf, equals, prefix, asInstanceOf, RoutesPrefix, synchronized, $isInstanceOf, _prefix, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, setPrefix, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala: Set(prefix, asInstanceOf, RoutesPrefix, isInstanceOf, getClass, setPrefix)
+Invalidating /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala)
+The /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala source file has the following implicit definitions changed:
+	mat.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /Users/tanan/Git/log-collector/app/filters/ExampleFilter.scala are invalidated:
+	/Users/tanan/Git/log-collector/app/Filters.scala
+Invalidating /Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala)
+The /Users/tanan/Git/log-collector/app/services/ApplicationTimer.scala source file has the following regular definitions changed:
+	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, ApplicationTimer, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, start, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/app/Module.scala: Set(ApplicationTimer, <init>)
+Invalidating /Users/tanan/Git/log-collector/app/services/Counter.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/services/Counter.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/services/Counter.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/services/Counter.scala)
+The /Users/tanan/Git/log-collector/app/services/Counter.scala source file has the following regular definitions changed:
+	notify, nextCount, wait, $asInstanceOf, equals, AtomicCounter, asInstanceOf, synchronized, $isInstanceOf, atomicCounter, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, Counter, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/app/controllers/CountController.scala: Set(nextCount, <init>, toString, Counter)
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/app/Module.scala: Set(AtomicCounter, <init>, Counter)
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala)
+The /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala source file has the following regular definitions changed:
+	notify, format, wait, $asInstanceOf, productArity, equals, asInstanceOf, f, synchronized, _display_, $isInstanceOf, ref, canEqual, index_Scope0, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, render, ne, eq, productIterator, ##, finalize, index, productElement, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/app/controllers/HomeController.scala: Set(<init>, apply, index)
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java)
+The /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java source file has the following regular definitions changed:
+	notify, Assets, wait, routes, equals, CountController, routes$javascript, notifyAll, <init>, HomeController, AsyncController, toString, getClass, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(Assets, routes, <init>)
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala)
+The /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala source file has the following regular definitions changed:
+	notify, count, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, synchronized, ReverseHomeController, $isInstanceOf, ReverseCountController, ReverseAssets, ReverseAsyncController, notifyAll, isInstanceOf, <init>, ==, clone, message, toString, !=, getClass, ne, versioned, eq, ##, finalize, index, hashCode.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java
+Invalidating /Users/tanan/Git/log-collector/app/Module.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/Module.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/Module.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/Module.scala)
+The /Users/tanan/Git/log-collector/app/Module.scala source file has the following regular definitions changed:
+	notify, bindListener, wait, $asInstanceOf, requestStaticInjection, requireBinding, binder, equals, getProvider, asInstanceOf, bindScope, synchronized, bind, $isInstanceOf, configure, requestInjection, notifyAll, addError, isInstanceOf, bindInterceptor, <init>, getMembersInjector, ==, clone, bindConstant, toString, !=, getClass, install, currentStage, ne, eq, Module, convertToTypes, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+Invalidating /Users/tanan/Git/log-collector/app/Filters.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/Filters.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/Filters.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/Filters.scala)
+The /Users/tanan/Git/log-collector/app/Filters.scala source file has the following regular definitions changed:
+	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, asJava, <init>, ==, clone, filters, toString, !=, getClass, Filters, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala)
+The /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala source file has the following regular definitions changed:
+	notify, format, wait, $asInstanceOf, productArity, equals, asInstanceOf, f, synchronized, _display_, $isInstanceOf, ref, canEqual, main, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, main_Scope0, copy, toString, !=, getClass, copy$default$1, render, ne, eq, productIterator, ##, finalize, productElement, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/index.template.scala: Set(format, _display_, main, <init>, apply)
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala)
+The /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala source file has the following regular definitions changed:
+	notify, badRequest, wait, controllers_CountController_count1_invoker, $asInstanceOf, routes, createInvoker, equals, prefix, controllers_Assets_versioned3_route, asInstanceOf, documentation, synchronized, $isInstanceOf, handlerFor, controllers_CountController_count1_route, notifyAll, isInstanceOf, asJava, errorHandler, <init>, controllers_Assets_versioned3_invoker, ==, clone, controllers_AsyncController_message2_route, Routes, controllers_AsyncController_message2_invoker, toString, !=, controllers_HomeController_index0_invoker, fakeValue, getClass, ne, withPrefix, call, controllers_HomeController_index0_route, eq, defaultPrefix, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+Invalidating /Users/tanan/Git/log-collector/app/controllers/CountController.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/controllers/CountController.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/controllers/CountController.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/controllers/CountController.scala)
+The /Users/tanan/Git/log-collector/app/controllers/CountController.scala source file has the following implicit definitions changed:
+	request2session, request2flash, request2lang.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /Users/tanan/Git/log-collector/app/controllers/CountController.scala are invalidated:
+	/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala
+Invalidating /Users/tanan/Git/log-collector/app/controllers/HomeController.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/controllers/HomeController.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/controllers/HomeController.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/controllers/HomeController.scala)
+The /Users/tanan/Git/log-collector/app/controllers/HomeController.scala source file has the following implicit definitions changed:
+	request2session, request2flash, request2lang.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /Users/tanan/Git/log-collector/app/controllers/HomeController.scala are invalidated:
+	/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala
+Invalidating /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/app/controllers/AsyncController.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/app/controllers/AsyncController.scala)
+The /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala source file has the following implicit definitions changed:
+	request2session, request2flash, request2lang.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /Users/tanan/Git/log-collector/app/controllers/AsyncController.scala are invalidated:
+	/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/router/Routes.scala
+Invalidating /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Invalidating (transitively) by inheritance from /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Initial set of included nodes: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+The /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala source file has the following regular definitions changed:
+	notify, count, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, synchronized, ReverseHomeController, $isInstanceOf, ReverseCountController, ReverseAssets, ReverseAsyncController, notifyAll, isInstanceOf, <init>, ==, clone, message, toString, !=, getClass, ne, versioned, eq, ##, finalize, index, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /Users/tanan/Git/log-collector/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(<init>, versioned)
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/tanan/Git/log-collector/target/scala-2.11/routes/main/controllers/routes.java
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 10 s, completed 2016/11/03 22:18:54
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/tanan/Git/log-collector/}root/compile:mainClass
+Evaluating tasks: compile:mainClass
+Running task... Cancel: sbt.server.ServerTaskCancellation@57e7c9a4, check cycles: false
+Total time: 0 s, completed 2016/11/03 22:18:54
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/tanan/Git/log-collector/}root/compile:discoveredMainClasses
+Evaluating tasks: compile:discoveredMainClasses
+Running task... Cancel: sbt.server.ServerTaskCancellation@292109af, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed 2016/11/03 22:18:54
+> server-post-command-cleanup
+> server-handle-next-server-request
+Done executing sbt server engine, result Right(Exit(0))
+Closing listening server socket
+Waiting for socket thread
+Waiting for request processor thread
+Waiting for command engine result
+Returning control to sbt launcher with result Exit(0)
+Closing the 12397@ananhajshinombp logs at Thu Nov 03 22:18:54 JST 2016, goodbye.

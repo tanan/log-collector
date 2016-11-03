@@ -10,6 +10,18 @@
     </encoder>
   </appender>
 
+  <appender name="collectAppender" class="ch.qos.logback.core.FileAppender">
+    <file>${application.home:-.}/logs/analyze.log</file>
+    <encoder>
+      <pattern>%date{yyyy-MM-dd hh:mm:ss.SSS} %message%n</pattern>
+    </encoder>
+  </appender>
+
+
+  <logger name="collectLog" level="info">
+    <appender-ref ref="collectAppender" />
+  </logger>
+
   <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
     <encoder>
       <pattern>%coloredLevel %logger{15} - %message%n%xException{10}</pattern>
