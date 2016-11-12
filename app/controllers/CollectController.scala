@@ -1,6 +1,5 @@
 package controllers
 
-
 import java.security.MessageDigest
 import java.util.Base64
 import javax.inject._
@@ -18,23 +17,28 @@ import play.api.mvc._
 class CollectController @Inject() extends Controller {
 
 
-  val COOKIE_KEY = "STAMP"
-  val COOKIE_MAX_AFTER_AGE = Some(31622400 + 31622400)
+  val USER_ID = "STAMP"
+  val USER_ID_TTL = Some(60 * 60 * 24 * 365)
 
   val onePixelGifBase64 = "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
   val onePixelGifBytes = Base64.getDecoder().decode(onePixelGifBase64)
 
   def collect = Action {request =>
     val cookies = request.cookies
-    val cookieValue = cookies.get(COOKIE_KEY).map { cookie =>
+    val cookieValue = cookies.get(USER_ID).map { cookie =>
       cookie.value
     }.getOrElse {
       val newValue = uniqueIdGenerator()
       newValue
     }
+
+    val queryStrings = request.queryString.map { case (k,v) => k -> v.mkString}
+    val referrer = queryStrings.getOrElse("ref", "")
+
+    val record = Seq(cookieValue, referrer)
     val collectLogger: Logger = Logger("collectLog")
-    collectLogger.info(cookieValue)
-    Ok(onePixelGifBytes).withCookies(Cookie(COOKIE_KEY, cookieValue, COOKIE_MAX_AFTER_AGE)).as("image/gif")
+    collectLogger.info(record.mkString("\t"))
+    Ok(onePixelGifBytes).withCookies(Cookie(USER_ID, cookieValue, USER_ID_TTL)).as("image/gif")
   }
 
   val uniqueIdGenerator = () => {
