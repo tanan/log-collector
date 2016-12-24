@@ -17,7 +17,7 @@ import play.api.mvc._
 class CollectController @Inject() extends Controller {
 
 
-  val USER_ID = "STAMP"
+  val USER_ID = "stamp"
   val USER_ID_TTL = Some(60 * 60 * 24 * 365)
 
   val onePixelGifBase64 = "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
@@ -25,7 +25,7 @@ class CollectController @Inject() extends Controller {
 
   def collect = Action {request =>
     val cookies = request.cookies
-    val cookieValue = cookies.get(USER_ID).map { cookie =>
+    val stamp = cookies.get(USER_ID).map { cookie =>
       cookie.value
     }.getOrElse {
       val newValue = uniqueIdGenerator()
@@ -35,10 +35,10 @@ class CollectController @Inject() extends Controller {
     val queryStrings = request.queryString.map { case (k,v) => k -> v.mkString}
     val referrer = queryStrings.getOrElse("ref", "")
 
-    val record = Seq(cookieValue, referrer)
+    val record = Seq(stamp, referrer)
     val collectLogger: Logger = Logger("collectLog")
     collectLogger.info(record.mkString("\t"))
-    Ok(onePixelGifBytes).withCookies(Cookie(USER_ID, cookieValue, USER_ID_TTL)).as("image/gif")
+    Ok(onePixelGifBytes).withCookies(Cookie(USER_ID, stamp, USER_ID_TTL)).as("image/gif")
   }
 
   val uniqueIdGenerator = () => {
