@@ -11,15 +11,22 @@
   </appender>
 
   <appender name="collectAppender" class="ch.qos.logback.core.FileAppender">
-    <file>${application.home:-.}/logs/analyze.log</file>
+    <file>${application.home:-.}/logs/collection.log</file>
     <encoder>
       <pattern>%date{yyyy-MM-dd hh:mm:ss.SSS} %message%n</pattern>
     </encoder>
   </appender>
 
+  <appender name="collectRolling" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <file>${application.home:-.}/logs/collection.log</file>
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>${LOG_DIR}/collection_%d{yyyyMMddHH}.log</fileNamePattern>
+    </rollingPolicy>
+  </appender>
 
   <logger name="collectLog" level="info">
     <appender-ref ref="collectAppender" />
+    <appender-ref ref="collectRolling" />
   </logger>
 
   <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
