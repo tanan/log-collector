@@ -1,4 +1,4 @@
-New log file opened at Sun Jan 08 01:36:53 JST 2017 by 29409@ananhajshinombp
+New log file opened at Sat Jan 14 12:25:19 JST 2017 by 87717@ananhajshinombp
 == resolving dependencies com.typesafe.akka#akka-contrib_2.10;2.3.11->com.typesafe.akka#akka-remote_2.10;2.3.11 [runtime->runtime(*)]
 == resolving dependencies com.typesafe.akka#akka-contrib_2.10;2.3.11->com.typesafe.akka#akka-remote_2.10;2.3.11 [runtime->compile]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -105,17 +105,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@583ffdab
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@292423a7
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7cdf7e5c
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@46ead773
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@52dbdf24
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2ad1fb31
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@25d360a1
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@63d38ace
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2260315
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6b62a408
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@58ca093
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7b23a758
 == resolving dependencies com.typesafe.sbt#sbt-js-engine;1.1.3->com.typesafe#npm_2.10;1.1.1 [compile->runtime]
 == resolving dependencies com.typesafe.sbt#sbt-js-engine;1.1.3->com.typesafe#npm_2.10;1.1.1 [compile->compile]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -148,17 +148,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7f7915a9
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@118a41e4
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1e42b2a0
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1546e4a1
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@29b924f2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@a3b490d
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@3b8f7474
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@88a73dd
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@c6ceaf1
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@4bcc9649
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7309e6e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@698d007d
 == resolving dependencies com.typesafe#npm_2.10;1.1.1->org.webjars#npm;2.11.2 [compile->compile(*)]
 == resolving dependencies com.typesafe#npm_2.10;1.1.1->com.typesafe.akka#akka-actor_2.10;2.3.11 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -201,17 +201,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-librar
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@685b4944
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6b9491fb
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@341a44a2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@253449fa
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6a39e686
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@111809eb
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@770c4fcf
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1a088f14
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@452f2903
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@555cdee7
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@23765a50
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@52a0362f
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 == resolving dependencies org.scala-sbt#sbt-core-next;0.1.1->org.scala-sbt#core-next_2.10;0.1.1 [compile->default(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
@@ -219,17 +219,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-librar
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1339d04d
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@5d08759e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2fe29418
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6e10333e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@3e57ef6e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3dd2719d
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4cd0782f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@f9024c4
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@11366240
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@112a042d
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2a4f662a
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7ecc4cf5
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[default(compile)]}
 == resolving dependencies org.scala-sbt#core-next_2.10;0.1.1->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[default(compile)]}
@@ -289,50 +289,50 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-librar
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@794d9907
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3c350d17
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@38e8f73
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3572f25c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@469d5af2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2508da43
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@45a46ad2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@600632aa
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@50b446c0
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@74cfd608
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2736beb2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@568d3adf
 == resolving dependencies com.typesafe.sbt#sbt-jshint;1.0.4->org.webjars#jshint-node;2.6.3-2 [compile->runtime]
 == resolving dependencies com.typesafe.sbt#sbt-jshint;1.0.4->org.webjars#jshint-node;2.6.3-2 [compile->compile]
 == resolving dependencies org.webjars#jshint-node;2.6.3-2->org.webjars#underscorejs;1.5.2-2 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6dc4332e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@64f6dfe1
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1f34ea10
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6e033ae1
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@de5146a
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@5167be3c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7ec4cf0
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@458384cf
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4b7d4260
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@17585249
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@73214575
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@607ba671
 == resolving dependencies org.webjars#jshint-node;2.6.3-2->org.webjars#underscorejs;1.5.2-2 [compile->compile(*)]
 == resolving dependencies org.webjars#jshint-node;2.6.3-2->org.webjars#console-browserify;0.1.6-1 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@33ac14db
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@55fd2aaf
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@12633e8c
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@62e043
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6b10cb58
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3d979610
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2f5fecb4
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3a01023c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7c062f48
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@695ef81
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@771ae91a
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@116267e8
 == resolving dependencies org.webjars#jshint-node;2.6.3-2->org.webjars#console-browserify;0.1.6-1 [compile->compile(*)]
 == resolving dependencies org.webjars#jshint-node;2.6.3-2->org.webjars#underscorejs;1.5.2-2 [runtime->runtime(*)]
 == resolving dependencies org.webjars#jshint-node;2.6.3-2->org.webjars#underscorejs;1.5.2-2 [runtime->compile]
@@ -343,17 +343,17 @@ dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c =
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4ad7d315
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2266b404
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7e6c968
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@ba6be2e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2794a2b7
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@9f9c595
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@506bc809
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3b29e22c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@24d0f66a
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2cf8a7d9
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@154cc611
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@12912ba6
 == resolving dependencies com.typesafe.sbt#sbt-jshint;1.0.4->org.webjars#strip-json-comments;1.0.2-1 [compile->runtime]
 == resolving dependencies com.typesafe.sbt#sbt-jshint;1.0.4->org.webjars#strip-json-comments;1.0.2-1 [compile->compile]
 == resolving dependencies com.typesafe.sbt#sbt-jshint;1.0.4->org.webjars#strip-json-comments;1.0.2-1 [compile->master]
@@ -366,17 +366,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-librar
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@49a5158e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@5337422c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@24ffdc48
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1af532a7
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6ae8dfec
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@42ea474a
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1ad6ca5
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@ea22f7e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6045107b
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@67ed3aa4
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@3a029da7
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@54be4cf4
 == resolving dependencies com.typesafe.sbt#sbt-rjs;1.0.8->org.webjars#rjs;2.2.0 [compile->runtime]
 == resolving dependencies com.typesafe.sbt#sbt-rjs;1.0.8->org.webjars#rjs;2.2.0 [compile->compile]
 == resolving dependencies com.typesafe.sbt#sbt-rjs;1.0.8->org.webjars#rjs;2.2.0 [compile->master]
@@ -436,17 +436,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-librar
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@33b5d73f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@21329f9b
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6da2645e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1eb8d041
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@47e58df8
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@24da889e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4d6cbf93
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3d04116
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@507d952e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@36abd8b0
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2e038beb
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6ec93cfc
 == resolving dependencies org.irundaia.sbt#sbt-sassify;1.4.6->com.typesafe.play#play-json_2.10;2.4.6 [compile->runtime]
 == resolving dependencies org.irundaia.sbt#sbt-sassify;1.4.6->com.typesafe.play#play-json_2.10;2.4.6 [compile->compile]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -479,17 +479,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@63dc5fe8
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@50712438
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@3425c4a4
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@70c8e83a
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@ef16af0
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@18b19abe
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@49d3e4b2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@29bfd62f
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@48f1c17f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@70b667c4
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@52eb3c21
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@4708d8d0
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->com.typesafe.play#play-iteratees_2.10;2.4.6 [compile->compile(*)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -519,17 +519,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4c5517dd
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@46a52579
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@58dacf6b
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@53bfc4be
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1ee68403
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@5cb1636e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@78ddfb5c
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@4e1101af
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1c52e065
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@21706bf9
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@12fdd513
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@cc7d15d
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 == resolving dependencies com.typesafe.play#play-iteratees_2.10;2.4.6->org.scala-stm#scala-stm_2.10;0.7 [compile->compile(*)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -572,17 +572,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6cb9f7c6
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@5eda4d5
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4faf7961
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1828232e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@33de3f1d
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@4bd16a34
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7bd49d0e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@5102f173
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@58704275
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@39212c8a
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6c205c6b
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@60c949d3
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->com.typesafe.play#play-functional_2.10;2.4.6 [compile->compile(*)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -607,17 +607,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@45b331b9
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7c1e82d5
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4efd74a2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1406d2dd
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4b07ef7
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@45485ce1
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@58efa68f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@d43c10f
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@40d7ad2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@543f258
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@21704695
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@27f14817
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->com.typesafe.play#play-datacommons_2.10;2.4.6 [compile->compile(*)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -642,17 +642,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4f9d44b8
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@456f025
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6f116252
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6958c4b4
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1a3a9b07
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@50ef1e37
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@21e16b8f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2cfe95ad
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@47c538f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1f1a9fcf
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@601ba2a0
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@304885fc
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->joda-time#joda-time;2.8.1 [compile->compile(*)]
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->org.joda#joda-convert;1.7 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -668,17 +668,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@420444d
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@4075862b
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@62268f6d
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@b5a8d0d
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@5f953f2b
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7f499eff
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4ecb2c09
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1605bf69
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@48cf1bb1
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7aad375c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1e44b822
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@25c0efe1
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->org.joda#joda-convert;1.7 [compile->compile(*)]
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -756,17 +756,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6688dc15
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@4a8eaa18
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@639bd082
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2d7bf87b
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6b8c599d
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@54029990
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1d396909
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@27b0bc92
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@3d7176cf
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@18510c16
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@53ae23
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6a1b9747
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->compile(*)]
 == resolving dependencies com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master(compile)]
 == resolving dependencies com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->compile(*)]
@@ -786,17 +786,17 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@74f35584
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2ed5b127
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@2fca4e68
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2eac7845
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@18b06861
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3fdd2549
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1792ca53
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@327402f1
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7923e250
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@31abd111
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4e74a12
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7c08f931
 == resolving dependencies com.typesafe.play#play-json_2.10;2.4.6->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->compile(*)]
 == resolving dependencies com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master(compile)]
 == resolving dependencies com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->compile(*)]
@@ -866,50 +866,50 @@ dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflec
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@32fb4f88
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@57e1d6c5
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@38b4076e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1af14ab0
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@5a2f8c35
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6f962395
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@1e9685ed
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@575345b1
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@76790eb8
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@edde660
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6e6ef86e
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@1ee999c1
 == resolving dependencies org.irundaia.sbt#sbt-sassify;1.4.6->com.nativelibs4java#jnaerator-runtime;0.12 [compile->runtime]
 == resolving dependencies org.irundaia.sbt#sbt-sassify;1.4.6->com.nativelibs4java#jnaerator-runtime;0.12 [compile->compile]
 == resolving dependencies com.nativelibs4java#jnaerator-runtime;0.12->com.nativelibs4java#ochafik-util;0.12 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@6295d2a2
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@d0e3069
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@5c270c86
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6c81394e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@451322e4
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@3ef4828e
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@3994deeb
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@12bd6bd9
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@75d80bb9
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6e4c9c9f
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@11ff6ab8
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@b629351
 == resolving dependencies com.nativelibs4java#jnaerator-runtime;0.12->com.nativelibs4java#ochafik-util;0.12 [compile->compile(*)]
 == resolving dependencies com.nativelibs4java#jnaerator-runtime;0.12->net.java.dev.jna#jna;4.1.0 [compile->master(compile)]
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@52db82b8
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@6802d218
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@676bde99
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@62a013e3
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@dabc266
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@7d47fcfd
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@7b09f1c4
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@2808619c
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@75c9725f
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@56e4e497
 dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
-dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@1bef6f8c => sbt.ivyint.MergedDescriptors@4ceff569
+dependency descriptor has been mediated: sbt.ivyint.MergedDescriptors@7cc2d102 => sbt.ivyint.MergedDescriptors@34b9daa3
 == resolving dependencies com.nativelibs4java#jnaerator-runtime;0.12->net.java.dev.jna#jna;4.1.0 [compile->compile(*)]
 == resolving dependencies com.nativelibs4java#jnaerator-runtime;0.12->com.nativelibs4java#ochafik-util;0.12 [runtime->runtime(*)]
 == resolving dependencies com.nativelibs4java#jnaerator-runtime;0.12->com.nativelibs4java#ochafik-util;0.12 [runtime->compile]
@@ -1525,7 +1525,7 @@ all callers are evicted for org.scala-sbt#control;0.13.8-M3: evicting too
 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-:: resolution report :: resolve 7525ms :: artifacts dl 83ms
+:: resolution report :: resolve 8296ms :: artifacts dl 106ms
 	report for default#log-collector-build;0.1-SNAPSHOT compile produced in /Users/tanan/Git/log-collector/project/target/resolution-cache/reports/default-log-collector-build-compile.xml
 	report for default#log-collector-build;0.1-SNAPSHOT runtime produced in /Users/tanan/Git/log-collector/project/target/resolution-cache/reports/default-log-collector-build-runtime.xml
 	report for default#log-collector-build;0.1-SNAPSHOT test produced in /Users/tanan/Git/log-collector/project/target/resolution-cache/reports/default-log-collector-build-test.xml
@@ -1539,7 +1539,7 @@ all callers are evicted for org.scala-sbt#control;0.13.8-M3: evicting too
 	report for default#log-collector-build;0.1-SNAPSHOT docs produced in /Users/tanan/Git/log-collector/project/target/resolution-cache/reports/default-log-collector-build-docs.xml
 	report for default#log-collector-build;0.1-SNAPSHOT pom produced in /Users/tanan/Git/log-collector/project/target/resolution-cache/reports/default-log-collector-build-pom.xml
 	report for default#log-collector-build;0.1-SNAPSHOT scala-tool produced in /Users/tanan/Git/log-collector/project/target/resolution-cache/reports/default-log-collector-build-scala-tool.xml
-	resolve done (7525ms resolve - 83ms download)
+	resolve done (8296ms resolve - 106ms download)
 [info] Done updating.
 Done updating.
 
@@ -1587,4 +1587,4 @@ Waiting for socket thread
 Waiting for request processor thread
 Waiting for command engine result
 Returning control to sbt launcher with result Exit(0)
-Closing the 29409@ananhajshinombp logs at Sun Jan 08 01:36:57 JST 2017, goodbye.
+Closing the 87717@ananhajshinombp logs at Sat Jan 14 12:25:23 JST 2017, goodbye.

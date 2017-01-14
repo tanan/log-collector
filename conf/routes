@@ -5,5 +5,7 @@
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
 
-# An example controller showing how to write asynchronous code
+# Homepage controller
+GET     /                           controllers.HomeController.home
 GET     /collect                    controllers.CollectController.collect
+POST    /parser                     controllers.EnglishParserController.enParser
