@@ -2,6 +2,7 @@ package controllers
 
 import javax.inject._
 
+import forms.RequestForm
 import play.api.data.Form
 import play.api.data.Forms._
 import play.api.mvc._
@@ -9,21 +10,31 @@ import play.api.mvc._
 import scala.collection.immutable.ListMap
 import scala.io._
 
+
 /**
   * Created by tanan on 2017/01/14.
   */
 @Singleton
 class EnglishParserController @Inject() extends Controller {
 
-  val form = Form("url" -> nonEmptyText)
+  val form = Form(
+    mapping(
+      "url" -> nonEmptyText
+    )(RequestForm.apply)(RequestForm.unapply)
+  )
+
   val wordRegexp = "^[a-z]{4,}$"
 
   def enParser = Action { implicit request =>
-    val data = form.bindFromRequest
-    if(data.hasErrors) {
+    val bindForm = form.bindFromRequest()
+    if(bindForm.hasErrors) {
       Ok("url is not valid")
     }
-    val html = Source.fromURL(data.get.toString).mkString
+    val url = bindForm.data.getOrElse("url", "")
+    if(url.isEmpty) {
+      Ok("please enter the url")
+    }
+    val html = Source.fromURL(url).mkString
     val words = html.split(" ").filter(p => p.matches(wordRegexp))
       .groupBy(f => f).map{
         case (k, v) => (k, v.length)
