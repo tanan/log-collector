@@ -1,0 +1,12 @@
+# label name
+actor.id=ID
+actor.url=URL
+actor.title=タイトル
+actor.update_at=更新日
+
+# validation message
+actor.validation.error=Please correct errors above.
+actor.save.success=正常に登録できました。
+actor.delete.success=正常に削除できました。
+actor.delete.error=削除に失敗しました。
+actor.url.required=URLは必須です。

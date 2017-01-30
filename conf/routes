@@ -9,3 +9,4 @@ GET     /assets/*file               controllers.Assets.versioned(path="/public",
 GET     /                           controllers.HomeController.home
 GET     /collect                    controllers.CollectController.collect
 POST    /parser                     controllers.EnglishParserController.enParser
+POST    /insert_history                     controllers.EnglishParserController.enParser
